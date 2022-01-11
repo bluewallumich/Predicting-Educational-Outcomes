@@ -14,4 +14,6 @@ K-nearest neighbor algorithm
 Neural networks (Multilayer perceptron)
 Similarity learning
 
+Can we use different variables (features) than what is on the original kaggle?
+
 https://www.kaggle.com/seranca/introduction-to-data-science-project-world-uni-ml
