@@ -24,3 +24,5 @@ Adrian - Supervised
 Susannah - Visuals
 
 Clean dataset by 17th, 17 - 24 Run Unsupervised learning, 24 -30 visualizaiton and submition.
+
+spend time writting about how data is beign handled
