@@ -16,7 +16,7 @@
 # '  Brazil' to 'Brazil'
 
 # To run this cleaner,
-# import country_cleaner.country_clean as country_clean
+# from country_cleaner import country_clean
 # df[country_column] = df[country_column].apply(lambda x: country_clean(x))
 
 import pandas as pd
