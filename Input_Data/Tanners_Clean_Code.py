@@ -9,8 +9,8 @@ df1 = pd.read_csv('Input_Data/educational_attainment_supplementary_data.csv')#re
 df2 = pd.read_csv('Input_Data/school_and_country_table.csv')
 df3 = pd.read_csv('Input_Data/shanghaiData.csv')
 df4 = pd.read_csv('Input_Data/timesData.csv')
-df_GDP = pd.read_csv('GDP.csv')
-df_GDP2 = pd.read_csv('GDP.csv')
+df_GDP = pd.read_csv('Input_Data/GDP.csv')
+df_GDP2 = pd.read_csv('Input_Data/GDP.csv')
 
 #Cleaning GDP file and averaging out years 2001 through 2011. This will help smooth out missing data and lag between school investments vs results 
 df_GDP.rename({'Country Name': 'country'}, axis=1, inplace=True)
